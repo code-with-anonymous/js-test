@@ -1,0 +1,9 @@
+#box{
+    min-height: 250px;
+}
+#form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
